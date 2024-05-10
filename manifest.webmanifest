@@ -1,15 +1,15 @@
 {
-  "name": "WB05 - Portal de Ingressos",
-  "short_name": "Portal de Ingressos",
+  "name": "Credenciall",
+  "short_name": "Credenciall",
   "id": "./",
-  "start_url": "./portal-de-ingressos",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "media/logos/escuro.png",
+      "src": "media/logos/favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
