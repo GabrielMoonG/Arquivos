@@ -1,0 +1,23 @@
+{
+  "name": "WB05 - Portal de Ingressos",
+  "short_name": "Portal de Ingressos",
+  "id": "./",
+  "start_url": "./portal-de-ingressos",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "media/logos/escuro.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+    //,
+    //{
+    //  "src": "icon-192.png",
+    //  "type": "image/png",
+    //  "sizes": "192x192"
+    //}
+  ]
+}
