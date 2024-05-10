@@ -2,7 +2,7 @@
   "name": "Credenciall",
   "short_name": "Credenciall",
   "id": "./",
-  "start_url": "./",
+  "start_url": "/Plataforma-do-evento",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
